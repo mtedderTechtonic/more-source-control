@@ -1,5 +1,6 @@
-p {
-    font-weight: bold;
-    color: darkblue;
-    font-size: 34px;
+/* This code selects the p element with a class of darkblue in the HTML */
+p.darkblue {
+    font-weight: bold; /* Changes font to bold */
+    color: darkblue; /* Changes color of font */
+    font-size: 24px;  /* Changes size of the font */
 }
